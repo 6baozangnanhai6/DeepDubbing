@@ -103,10 +103,10 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-1.We borrowed a lot of code from Matcha-TTS.
-2.We borrowed a lot of code from CosyVoice.
-3.We borrowed a lot of code from Qwen3.
-4.We borrowed a lot of code from BigVGAN
+1. We borrowed a lot of code from Matcha-TTS.
+2. We borrowed a lot of code from CosyVoice.
+3. We borrowed a lot of code from Qwen3.
+4. We borrowed a lot of code from BigVGAN
 
 ## Disclaimer
 
