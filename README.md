@@ -53,10 +53,12 @@ By combining a Text-to-Timbre (TTT) model (generates speaker embeddings from nat
   - Fuses speaker embedding, dialogue text, and emotion instructions via a Transformer-based acoustic model.
   - NSF-BigVGAN vocoder generates final speech audio. -->
 
-We aim to build a fully automated pipeline that converts raw book text into high-quality, multi-speaker audiobooks with context-aware expressiveness. The overall workflow, depicted in Fig. \ref{fig:model} (a), consists of three main steps:
-**- Step 1:** The entire book text is processed by a large language model (LLM), which identifies all characters and generates a structured timbre description for each. This description serves as input to the TTT model to produce a corresponding speaker embedding.
-**- Step 2:** The same LLM analyzes the narrative context to generate emotion-scene instructions for each dialogue segment.
-**- Step 3:** The CA-Instruct-TTS model synthesizes expressive and contextually appropriate speech for each character based on three inputs: the generated speaker embedding, the current sentence text, and the emotion-scene instruction.
+We aim to build a fully automated pipeline that converts raw book text into high-quality, multi-speaker audiobooks with context-aware expressiveness. The overall workflow, depicted in Fig. 1 (a), consists of three main steps:
+
+- **Step 1:** The entire book text is processed by a large language model (LLM), which identifies all characters and generates a structured timbre description for each. This description serves as input to the TTT model to produce a corresponding speaker embedding.
+- **Step 2:** The same LLM analyzes the narrative context to generate emotion-scene instructions for each dialogue segment.
+- **Step 3:** The CA-Instruct-TTS model synthesizes expressive and contextually appropriate speech for each character based on three inputs: the generated speaker embedding, the current sentence text, and the emotion-scene instruction.
+
 This LLM-powered context parsing and dual-instruction generation mechanism enables fully automated, end-to-end expressive multi-participant audiobook synthesis.
 
 ## 🔍 Key Capabilities
