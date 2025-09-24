@@ -82,7 +82,7 @@ Synthesize speech with emotion and scene context:
 - Naturalness: MOS-N = 3.33 (vs. baseline TTS: 3.10) with a low word error rate (WER = 2.54%).
   Note: The baseline model directly inputs text and corresponding speech without using emotional scene instructions
 
-![Table 3. Comparison of subjective and objective scores by CA-Instruct-TTS: Word Error Rate (WER), and Mean Opinion Scores(MOS): N-Naturalness, E-Emotion.](table3.png)
+<p align="center"><img src="table3.png" alt="Table 3. Comparison of subjective and objective scores by CA-Instruct-TTS: Word Error Rate (WER), and Mean Opinion Scores(MOS): N-Naturalness, E-Emotion."></p>
 
 ## 📝 Citation
 
