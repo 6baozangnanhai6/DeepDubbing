@@ -1,6 +1,6 @@
 # DeepDubbing: End-to-End Auto-Audiobook System with Text-to-Timbre and Context-Aware Instruct-TTS
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Text-to-Timbre💖%20Context-Aware-TTS&text2=&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=DeepDubbing&text2=Text-to-Timbre%20💖%20Context-Aware-TTS&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
     <a href="https://arxiv.org/abs/2509.15845"><img src="https://img.shields.io/badge/arXiv-2509.15845-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv:2509.15845"></a>
