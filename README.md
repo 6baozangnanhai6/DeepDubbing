@@ -37,11 +37,11 @@ By combining a Text-to-Timbre (TTT) model (generates speaker embeddings from nat
 - 📚 50 hours of synthetic audiobooks (BookVoice-50h dataset) with aligned timbre descriptions, emotion-scene labels, and speech-text pairs.
 - 📈 Superior synthesis quality: CA-Instruct-TTS achieves MOS-E (emotion) = 4.15 and MOS-N (naturalness) = 3.33, outperforming baseline TTS systems.
 
-![Table 1. Examples of Text-to-Timbre Prompt and Context-Aware Instruct-TTS Prompt](table1.png)
+![Table 1. Examples of Text-to-Timbre Prompt and Context-Aware Instruct-TTS Prompt](resource/table1.png)
 
 ## 🛠️ Pipeline Overview
 
-![DeepDubbing Pipeline](figure1.png)
+![DeepDubbing Pipeline](resource/figure1.png)
 
 <!-- - Text & Context Parsing:
   - A Large Language Model (LLM) identifies characters and generates Gender|Age|Personality timbre descriptions.
@@ -71,7 +71,7 @@ Generate speaker embeddings through precise timbre description text:
 - Timbre Diversity: It supports user-defined timbre descriptions, and the speaker embedding generation results have good diversity.
 - Efficiency: Conditional flow matching enables the embedding generation speed to be faster than that of traditional diffusion methods.
 
-![Table 2. Comparison of TTT performance across age groups: Sex Accuracy (SA), Age Accuracy (AA) and Character Matching Score (CMS) with 95% CI ( CMS Score: 0=Irrelevant, 1=Marginally Relevant, 2=Partially Consistent, 3=Highly Consistent, 4=Excellent Match)](table2.png)
+![Table 2. Comparison of TTT performance across age groups: Sex Accuracy (SA), Age Accuracy (AA) and Character Matching Score (CMS) with 95% CI ( CMS Score: 0=Irrelevant, 1=Marginally Relevant, 2=Partially Consistent, 3=Highly Consistent, 4=Excellent Match)](resource/table2.png)
 
 ### 🎧 Context-Aware Speech Synthesis
 
