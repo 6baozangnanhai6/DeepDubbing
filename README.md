@@ -67,7 +67,7 @@ This LLM-powered context parsing and dual-instruction generation mechanism enabl
 
 Generate speaker embeddings through precise timbre description text:
 
-- Attribute Accuracy: As shown in Table 1, all the indicators of the TTT-Qwen3-0.6B model have reached the optimum or are highly competitive.
+- Attribute Accuracy: As shown in Table 2, all the indicators of the TTT-Qwen3-0.6B model have reached the optimum or are highly competitive.
 - Timbre Diversity: It supports user-defined timbre descriptions, and the speaker embedding generation results have good diversity.
 - Efficiency: Conditional flow matching enables the embedding generation speed to be faster than that of traditional diffusion methods.
 
@@ -79,8 +79,9 @@ Synthesize speech with emotion and scene context:
 
 - Emotion Expression: 44+ emotion categories with MOS-E = 4.15 (vs. baseline TTS: 3.67).
 - Context Aware: LLM-derived instructions ensure speech matches narrative scenarios (e.g., "whispering in a library").
-- Naturalness: MOS-N = 3.33 (vs. baseline TTS: 3.10) with a low word error rate (WER = 2.54%).
-  Note: The baseline model directly inputs text and corresponding speech without using emotional scene instructions
+- Naturalness: As shown in Table 3, MOS-N = 3.33 (vs. baseline TTS: 3.10) with a low word error rate (WER = 2.54%).
+  
+Note: The baseline model directly inputs text and corresponding speech without using emotional scene instructions
 
 <p align="center"><img src="table3.png" width="700" alt="Table 3. Comparison of subjective and objective scores by CA-Instruct-TTS: Word Error Rate (WER), and Mean Opinion Scores(MOS): N-Naturalness, E-Emotion."></p>
 
