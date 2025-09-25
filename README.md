@@ -15,7 +15,6 @@
 
 ## 🗓️ Release Plan
 
-- Demo page for audio samples
 - BookVoice-50h demo dataset
 - Full BookVoice-50h dataset with extended timbre/emotion annotations
 - End-to-end inference code for raw text → audiobook generation
