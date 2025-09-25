@@ -97,10 +97,6 @@ If you use DeepDubbing or the BookVoice-50h dataset in your research, please cit
 }
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙏 Acknowledgments
 
 1. We borrowed a lot of code from Matcha-TTS.
