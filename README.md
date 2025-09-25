@@ -83,7 +83,7 @@ Synthesize speech with emotion and scene context:
   
 Note: The baseline model directly inputs text and corresponding speech without using emotional scene instructions
 
-<p align="center"><img src="table3.png" width="700" alt="Table 3. Comparison of subjective and objective scores by CA-Instruct-TTS: Word Error Rate (WER), and Mean Opinion Scores(MOS): N-Naturalness, E-Emotion."></p>
+<p align="center"><img src="resource/table3.png" width="700" alt="Table 3. Comparison of subjective and objective scores by CA-Instruct-TTS: Word Error Rate (WER), and Mean Opinion Scores(MOS): N-Naturalness, E-Emotion."></p>
 
 ## 📝 Citation
 
