@@ -12,15 +12,15 @@
 
 ## 🗞 News
 
-- [2025-09-19] Initial release of arXiv paper.
-- [2025-09-25] Launch of demo page for audiobook synthesis.
-- [Coming soon...] Release of BookVoice-50h dataset on Hugging Face.
+- [2025-09-19] 🎉 Initial release of arXiv paper.
+- [2025-09-25] 🎉 Launch of demo page for audiobook synthesis.
+- [Coming soon...] 🎉 Release of BookVoice-50h dataset on Hugging Face.
 
 ## 🗓️ Release Plan
-
-- BookVoice-50h demo dataset
-- Full BookVoice-50h dataset with extended timbre/emotion annotations 
-- End-to-end inference code for raw text → audiobook generation
+- [x] Demo page
+- [ ] BookVoice-50h demo dataset
+- [ ] Full BookVoice-50h dataset with extended timbre/emotion annotations 
+- [ ] End-to-end inference code for raw text → audiobook generation
 - **Note:** If you have any data requirements or would like to conduct business cooperation with us, please contact us at the email address: janettachen@tencent.com
 
 ## 🎯 Introduction
