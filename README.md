@@ -16,8 +16,9 @@
 ## 🗓️ Release Plan
 
 - BookVoice-50h demo dataset
-- Full BookVoice-50h dataset with extended timbre/emotion annotations
+- Full BookVoice-50h dataset with extended timbre/emotion annotations 
 - End-to-end inference code for raw text → audiobook generation
+- **Note:** If you have any data requirements or would like to conduct business cooperation with us, please contact us at the email address: janettachen@tencent.com
 
 ## 🎯 Introduction
 
@@ -99,10 +100,11 @@ If you use DeepDubbing or the BookVoice-50h dataset in your research, please cit
 
 ## 🙏 Acknowledgments
 
-1. We borrowed a lot of code from Matcha-TTS.
-2. We borrowed a lot of code from CosyVoice.
-3. We borrowed a lot of code from Qwen3.
-4. We borrowed a lot of code from BigVGAN
+1. We borrowed a lot of code from [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS).
+2. We borrowed a lot of code from [CosyVoice](https://github.com/FunAudioLLM/CosyVoice).
+3. We borrowed a lot of code from [Qwen](https://huggingface.co/Qwen/Qwen3-0.6B).
+4. We borrowed a lot of code from [BigVGAN](https://github.com/NVIDIA/BigVGAN).
+
 
 ## Disclaimer
 
