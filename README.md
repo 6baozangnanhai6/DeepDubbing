@@ -5,6 +5,9 @@
 <div align="center">
     <a href="https://arxiv.org/abs/2509.15845"><img src="https://img.shields.io/badge/arXiv-2509.15845-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv:2509.15845"></a>
     <a href="https://tme-lyra-lab.github.io/DeepDubbing"><img src="https://img.shields.io/badge/Demos-🌐-blue" alt="Demos"></a>
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue.svg" alt="License: CC BY-NC-ND 4.0"></a>
+</div>
+
 </div>
 
 ## 🗞 News
