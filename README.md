@@ -71,7 +71,7 @@ Generate speaker embeddings through precise timbre description text:
 - Timbre Diversity: It supports user-defined timbre descriptions, and the speaker embedding generation results have good diversity.
 - Efficiency: Conditional flow matching enables the embedding generation speed to be faster than that of traditional diffusion methods.
 
-![Table 2. Comparison of TTT performance across age groups: Sex Accuracy (SA), Age Accuracy (AA) and Character Matching Score (CMS) with 95% CI ( CMS Score: 0=Irrelevant, 1=Marginally Relevant, 2=Partially Consistent, 3=Highly Consistent, 4=Excellent Match)](table2.png)
+![Table 2. Comparison of TTT performance across age groups: Sex Accuracy (SA), Age Accuracy (AA) and Character Matching Score (CMS) with 95% CI ( CMS Score: 0=Irrelevant, 1=Marginally Relevant, 2=Partially Consistent, 3=Highly Consistent, 4=Excellent Match)](resource/table2.png)
 
 ### 🎧 Context-Aware Speech Synthesis
 
